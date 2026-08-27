@@ -13,3 +13,5 @@ done
 
 echo "The sum of first n numbers is $sum"
 ls 
+
+echo "$1 $2"
