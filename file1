@@ -12,3 +12,4 @@ num=`expr $num - 1`
 done
 
 echo "The sum of first n numbers is $sum"
+ls -lrt
